@@ -1,9 +1,8 @@
-<style>
-    h5, h6 {display:inline;}
-</style>
-<h5>sojib</h5><h6>nahid</h6>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
 <h1>Saroar Zahan Sojib</h1>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
+- 🌱 I’m currently learning **Django, Django Rest Framework,Flask,Flask Rest Framewordk, NodeJs and React**
+
+- 📫 How to reach me **Saroarbdb@gmail.com**
 <h2> Profile Links</h2>
 <a href="https://www.facebook.com/sojib.bdb/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
 <a href="https://www.instagram.com/saroar_zahan_sojib/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
@@ -23,12 +22,6 @@
 
 ![Sojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroar-Sojib&show_icons=true&count_private=true&theme=great-gatsby)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroar-Sojib&theme=great-gatsby&layout=compact)](https://github.com/Saroar-Sojib)
-
-- 🌱 I’m currently learning **Django, Django Rest Framework,Flask,Flask Rest Framewordk, NodeJs and React**
-
-- 📫 How to reach me **Saroarbdb@gmail.com**
-
-
 
 <h2> Skills </h2>
 
