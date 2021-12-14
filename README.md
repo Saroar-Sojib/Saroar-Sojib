@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saroar Zahan Sojib</h1>
+<h1>Saroar Zahan Sojib</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
 
 - 🌱 I’m currently learning **Django, Django Rest Framework,Flask,Flask Rest Framewordk, NodeJs and React**
