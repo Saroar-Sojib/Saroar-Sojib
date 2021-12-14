@@ -17,7 +17,7 @@
 <a href="https://leetcode.com/Sojib_CodeBreaker/" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
 
 <p align="center">
-<a href="https://www.codechef.com/users/aaman007" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FAtCoder%2Fphotos%2F&psig=AOvVaw2_dUrlkXI823j_Pn8N3fWJ&ust=1639554139322000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjMjqHl4vQCFQAAAAAdAAAAABAI" alt="Saroar-Sojib" height="30" width="30" /></a>
+<a href="https://atcoder.jp/users/SojibCodebreaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Saroar-Sojib" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/Sojib_CodeBreaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Saroar-Sojib" height="30" width="30" /></a>
 </p>
 
