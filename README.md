@@ -1,3 +1,4 @@
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
 <h1>Saroar Zahan Sojib</h1>
 <h2> Profile Links</h2>
 <a href="https://www.facebook.com/sojib.bdb/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
@@ -7,7 +8,7 @@
 <a href="https://stackoverflow.com/users/17291181/saroar-zahan-sojib" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" > </a>
 <a href="https://www.hackerrank.com/SaroarSojib" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" > </a>
 <a href="https://leetcode.com/Sojib_CodeBreaker/" target="_blank"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" > </a>
-<img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" />
+ 
 
 <p align="center">
 <a href="https://atcoder.jp/users/SojibCodebreaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Saroar-Sojib" height="30" width="30" /></a>
