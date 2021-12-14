@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Django, Django Rest Framework,Flask,Flask Rest Framewordk, NodeJs and React**
 
 - 📫 How to reach me **Saroarbdb@gmail.com**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroar-Sojib&theme=great-gatsby&layout=compact)](https://github.com/Saroar-Sojib)
+
 <h2> Profile Links</h2>
 <a href="https://www.facebook.com/sojib.bdb/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
 <a href="https://www.instagram.com/saroar_zahan_sojib/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
