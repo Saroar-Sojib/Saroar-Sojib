@@ -1,3 +1,7 @@
+<style>
+    h5, h6 {display:inline;}
+</style>
+<h5>sojib</h5><h6>nahid</h6>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
 <h1>Saroar Zahan Sojib</h1>
 <h2> Profile Links</h2>
