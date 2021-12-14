@@ -1,3 +1,5 @@
+<h5 style="display:inline-block;">Category</h5>
+<h6 style="display:inline-block;">auto</h6>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
 <h1>Saroar Zahan Sojib</h1>
 <h2> Profile Links</h2>
