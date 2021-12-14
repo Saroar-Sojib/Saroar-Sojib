@@ -1,5 +1,9 @@
 <h1>Saroar Zahan Sojib</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
+<h2> Stats </h2>
+
+![Sojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroar-Sojib&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroar-Sojib&theme=great-gatsby&layout=compact)](https://github.com/Saroar-Sojib)
 
 - 🌱 I’m currently learning **Django, Django Rest Framework,Flask,Flask Rest Framewordk, NodeJs and React**
 
@@ -20,14 +24,6 @@
 <a href="https://atcoder.jp/users/SojibCodebreaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Saroar-Sojib" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/Sojib_CodeBreaker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Saroar-Sojib" height="30" width="30" /></a>
 </p>
-
-
-
-<h2> Stats </h2>
-
-![Aaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroar-Sojib&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroar-Sojib&theme=great-gatsby&layout=compact)](https://github.com/Saroar-Sojib)
-
 
 
 <h2> Skills </h2>
