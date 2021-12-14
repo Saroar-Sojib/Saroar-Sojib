@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
 <h2> Stats </h2>
 
-![Sojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroar-Sojib&show_icons=true&count_private=true&theme=great-gatsby) </br>
+![Sojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saroar-Sojib&show_icons=true&count_private=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saroar-Sojib&theme=great-gatsby&layout=compact)](https://github.com/Saroar-Sojib)
 
 - 🌱 I’m currently learning **Django, Django Rest Framework,Flask,Flask Rest Framewordk, NodeJs and React**
