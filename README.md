@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img src="https://img.shields.io/badge/Fastapi-20232A?style=for-the-badge&logo=fastapi&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/FlaskRESTful-20232A?style=for-the-badge&logo=flaskrestful&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
 
