@@ -1,15 +1,15 @@
 <h1>Saroar Zahan Sojib</h1>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Saroar-Sojib" alt="Saroar-Sojib" /> </p>
-- Software Engineer with 4+ years of experience designing
+**Software Engineer with 4+ years of experience designing
 and developing scalable APIs, microservices, and ERP
 solutions. Proficient in FastAPI, Django REST Framework,
 Odoo, .NET Core, AWS, and PostgreSQL. Skilled in
 software architecture, database optimization, and
 delivering high-performance business applications.
 Passionate about clean code, scalability, and problem-
-solving.
+solving.**
 
-- 📫 How to reach me **Saroarbdb@gmail.com**
+📫 How to reach me **Saroarbdb@gmail.com**
 
 <h2> Profile Links</h2>
 <p align="left">
